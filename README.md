@@ -1,6 +1,6 @@
 # pypostfix
 
-https://github.com/Slinky802/pypostfix
+https://github.com/Nebryon/pypostfix
 
 **pypostfix** is a Python library for manipulating expressions in both infix and postfix notation (Reverse Polish Notation or RPN).
 
@@ -127,7 +127,7 @@ We welcome contributions to improve and expand the **pypostfix** library ! Wheth
 
 2. **Clone the Project**: Clone your fork locally to work on the code.
    ```bash
-   git clone https://github.com/Slinky802/pypostfix
+   git clone https://github.com/Nebryon/pypostfix
    cd pypostfix
    ```
 3. **Create a New Branch**: Before making changes, create a new branch for your work.
@@ -152,7 +152,7 @@ To maintain the project's stability and security, we have implemented a branch p
 ---
 
 ## Contact
-Created by Alexandre Poggioli (Slinky802) - alexandrepoggioli09@gmail.com
+Created by Alexandre Poggioli (Nebryon) - alexandrepoggioli09@gmail.com
 
 More information on https://slinky-presentation.netlify.app
 
